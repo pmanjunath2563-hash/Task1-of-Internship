@@ -1,0 +1,6 @@
+order_id,order_date,status,customer
+1,2025-01-15,delivered,"Ammi kumari"
+2,2025-01-18,delivered,"Bro Patel"
+3,2025-02-05,processing,"Ammi kumari"
+4,2025-02-10,cancelled,"Cod Gomez"
+5,2025-02-12,delivered,"Dhana Smith"
