@@ -1,0 +1,6 @@
+Dashboard insights (short):
+
+1) Total Sales in dataset: 2,297,200.86.
+2) Top region by sales: West with 725,457.82.
+3) Top category by sales: Technology (≈ 36.4% of total sales).
+4) Highest monthly sales occurred in: 2017-11.
